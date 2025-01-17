@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fitness AI Assistant (Unfinished Project)
 
 An experimental project combining Next.js, Gemini AI, and fitness knowledge to create an AI fitness assistant. This project was an exploration into AI-powered fitness guidance but remains unfinished.
@@ -43,3 +44,6 @@ This project is incomplete and was mainly an experiment in:
 ## Note
 
 This is an experimental project that was not completed. Feel free to use it as a starting point or reference for similar projects.
+=======
+# GYM-AI
+>>>>>>> a2ab677919a385467beae63079a36c5238b80b3a
